@@ -1,0 +1,6 @@
+fault,best_by_mcc,best_mcc,acceptable,recommended
+TWF,LR,0.1984,LR,LR
+HDF,LGBM,0.9609,LGBM,LGBM
+PWF,XGB,0.7934,XGB,XGB
+OSF,LGBM,0.8724,LGBM,LGBM
+RNF,SVM,0.0205,SVM,SVM

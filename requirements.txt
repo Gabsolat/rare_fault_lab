@@ -1,0 +1,9 @@
+streamlit>=1.40
+numpy
+pandas
+scipy
+scikit-learn>=1.4
+imbalanced-learn
+xgboost
+lightgbm
+matplotlib
